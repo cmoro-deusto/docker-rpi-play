@@ -1,6 +1,9 @@
 docker-rpi-play
 ===============
 
+[![dockeri.co](http://dockeri.co/image/dordoka/rpi-play)](https://registry.hub.docker.com/u/dordoka/rpi-play/)
+
+
 This is a minimal docker container based on Hypriot Debian Raspberry Pi image for Play Framework development!
 
 # Description
