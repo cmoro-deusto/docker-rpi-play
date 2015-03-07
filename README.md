@@ -48,4 +48,4 @@ Remember to change `/home/dordoka/Code` to the directory where your code is stor
 - [DockerHub](https://registry.hub.docker.com/u/dordoka/rpi-play/)
 
 
-## Happy Play coding on your Raspeberry Pi! :)
+## Happy Play coding on your Raspberry Pi! :)
